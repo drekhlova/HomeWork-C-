@@ -1,0 +1,15 @@
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\bin\Debug\net6.0\lesson1_task4.exe
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\bin\Debug\net6.0\lesson1_task4.deps.json
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\bin\Debug\net6.0\lesson1_task4.runtimeconfig.json
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\bin\Debug\net6.0\lesson1_task4.dll
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\bin\Debug\net6.0\lesson1_task4.pdb
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\obj\Debug\net6.0\lesson1_task4.csproj.AssemblyReference.cache
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\obj\Debug\net6.0\lesson1_task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\obj\Debug\net6.0\lesson1_task4.AssemblyInfoInputs.cache
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\obj\Debug\net6.0\lesson1_task4.AssemblyInfo.cs
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\obj\Debug\net6.0\lesson1_task4.csproj.CoreCompileInputs.cache
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\obj\Debug\net6.0\lesson1_task4.dll
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\obj\Debug\net6.0\refint\lesson1_task4.dll
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\obj\Debug\net6.0\lesson1_task4.pdb
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\obj\Debug\net6.0\lesson1_task4.genruntimeconfig.cache
+D:\ds\Desktop\Курсы\HomeWork C#\lesson1_task4\obj\Debug\net6.0\ref\lesson1_task4.dll
