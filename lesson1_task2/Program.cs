@@ -17,13 +17,13 @@ if(numA > numB)
     Console.WriteLine($"max = {numA}");
     Console.Write($"min = {numB}");
 }
-else if (numA< numB)
+else if (numA < numB)
 {
     Console.WriteLine("Число 1 меньше числа 2");
     Console.WriteLine($"max = {numB}");
     Console.Write($"min = {numA}");
 }
-else if (numA == numB)
+else
 {
     Console.WriteLine("Число 1 равно числу 2. Невозможно определить max и min");
 } 
