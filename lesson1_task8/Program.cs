@@ -4,13 +4,16 @@
 8 -> 2, 4, 6, 8 */
 
 Console.WriteLine("Введите число ");
-int num = Convert.ToInt32(Console.ReadLine());
+int N = Convert.ToInt32(Console.ReadLine());
+int count = 2;
 
-if (num % 2 == 0)
+if (N == 1)
 {
-    Console.Write($"Число {num} четное");
+    Console.Write("Нет четных чисел");
 }
-else
+
+while (count <= N)
 {
-    Console.Write($"Число {num} нечетное");
+    Console.Write($"{count} ");
+    count+=2;
 }
