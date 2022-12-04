@@ -8,6 +8,13 @@
 32679 -> 6 */
 
 Console.WriteLine("Введите число: ");
-string number = Console.ReadLine();
-Console.WriteLine($"{number[1]}");
-Console.WriteLine("Третьей цифры нет");
+int number = Convert.ToInt32(Console.ReadLine());
+if (number < 100)
+{
+    Console.WriteLine("Третьей цифры нет");
+}
+else
+{
+    string str = number.ToString();
+    Console.WriteLine($"Третья цифра - {str[2]}");
+}
