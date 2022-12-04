@@ -12,10 +12,10 @@ Console.WriteLine($"{number[1]}");
 
 Console.WriteLine("Введите трёхзначное число: ");
 int number = Convert.ToInt32(Console.ReadLine());
-if (number > 99 || number < 999)
+
+if (number > 99 && number < 1000)
 {
     string str = number.ToString();
     Console.WriteLine($"{str[1]}"); 
 }
-
 else Console.WriteLine("Число не трехзначное");
