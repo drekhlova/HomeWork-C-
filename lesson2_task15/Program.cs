@@ -3,9 +3,9 @@
 
 6 -> да
 7 -> да
-1 -> нет */
+1 -> нет 
 
-Console.WriteLine("Введите число: ");
+Console.WriteLine("Введите номер дня недели: ");
 int day = Convert.ToInt32(Console.ReadLine());
 
 if (day == 1)
@@ -48,3 +48,17 @@ else
     string str = day.ToString();
     Console.WriteLine("В неделе 7 дней. Пожалуйста, введите число от 1 до 7");
 }  
+*/
+
+Console.WriteLine("Введите номер дня недели: ");
+int day = Convert.ToInt32(Console.ReadLine());
+
+if (day < 1 || day > 7)
+{
+    Console.WriteLine("В неделе 7 дней. Пожалуйста, введите номер от 1 до 7");
+}
+else if (day > 5)
+{
+    Console.WriteLine("Ура! Выходные!"); 
+}
+else Console.WriteLine("Трудовые будни");
