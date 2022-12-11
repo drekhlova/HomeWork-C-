@@ -4,17 +4,6 @@
 3 -> 1, 8, 27
 5 -> 1, 8, 27, 64, 125 */
 
-/*Console.WriteLine("Введите число: ");
-int number = Convert.ToInt32(Console.ReadLine());
-
-double GetQuarter(int number)
-{
-    double result = 0;
-    result = (Math.Pow(number, 2));
-    return result;
-}
-Console.WriteLine($"Квадрат числа {number} составит  {GetQuarter(number)}"); */
-
 Console.WriteLine("Введите число: ");
 int number = Convert.ToInt32(Console.ReadLine());
 
