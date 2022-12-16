@@ -12,7 +12,7 @@ int[] array =  new int[number];
         Console.Write($"Введите элемент массива под индексом {i}:\t");
         array[i] = Convert.ToInt32(Console.ReadLine());
     }
-    Console.Write("Задан массив: ");
+    Console.WriteLine("Задан массив: ");
 
     for (int i = 0; i < array.Length; i++)
     {
@@ -22,7 +22,7 @@ int[] array =  new int[number];
 int max = array[0];
 int min = array[0];
 int summ = 0;
-{
+
 for (int i = 0; i < array.Length; i++)
 {
   if(array[i] > max) max = array[i];  
@@ -33,6 +33,6 @@ for (int i = 0; i < array.Length; i++)
     min = array[i];
 }
 summ = max - min;
-}
 
+Console.WriteLine();
 Console.WriteLine($"Максимальный элемент массива равен {max}. Минимальный элемент массива равен {min}. Разница между максимальным и минимальным элементами массива равна {summ}.");
