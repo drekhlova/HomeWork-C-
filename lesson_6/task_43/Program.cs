@@ -4,13 +4,13 @@
 b1 = 2, k1 = 5, b2 = 4, k2 = 9 -> (-0,5; -0,5) */
 
 Console.WriteLine("Введите значение b1: ");
-double b1 = Convert.ToInt32(Console.ReadLine());
+double b1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите значение k1: ");
-double k1 = Convert.ToInt32(Console.ReadLine());
+double k1 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите значение b2: ");
-double b2 = Convert.ToInt32(Console.ReadLine());
+double b2 = Convert.ToDouble(Console.ReadLine());
 Console.WriteLine("Введите значение k2: ");
-double k2 = Convert.ToInt32(Console.ReadLine());
+double k2 = Convert.ToDouble(Console.ReadLine());
 
 // y1= k1 * x + b1  / 1я прямая 
 // y2 = k2 * x + b2  /2я прямая
